@@ -14,7 +14,5 @@
 ## Gün 2 - Veri Biliminin Temelleri & [Selin Şentürk](https://www.linkedin.com/in/sselinsenturk/)
 <details>
 <summary>Kaynaklar</summary>
-- 📓 [Veri Hazırlığı Notebook](Kaynaklar/Veri_Biliminin_Temelleri/Veri_Hazırlığı.ipynb)
-- 📊 [Student Data CSV](Kaynaklar/student_data/student_data.csv)
 
 </details>
