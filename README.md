@@ -14,6 +14,7 @@
 ## Gün 2 - Veri Biliminin Temelleri & [Selin Şentürk](https://www.linkedin.com/in/sselinsenturk/)
 <details>
 <summary>Kaynaklar</summary>
-
+- 📓 [Veri Hazırlığı Notebook](Uygulamalı_Veri_Bilimi_Bootcamp_2.Hafta/Kaynaklar/Veri_Biliminin_Temelleri/Veri_Hazırlığı.ipynb)
+- 📊 [Student Data CSV](Uygulamalı_Veri_Bilimi_Bootcamp_2.Hafta/Kaynaklar/student_data/student_data.csv)
 
 </details>
