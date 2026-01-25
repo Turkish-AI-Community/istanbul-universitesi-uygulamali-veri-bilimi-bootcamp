@@ -12,7 +12,11 @@
 
 <a name="2. Oturum"></a>
 ## Gün 2 - Veri Biliminin Temelleri & [Selin Şentürk](https://www.linkedin.com/in/sselinsenturk/)
+
 <details>
 <summary>Kaynaklar</summary>
-  
+
+- 📁 [Uygulamalı Veri Bilimi Bootcamp – 2. Hafta](https://github.com/Turkish-AI-Community/istanbul-universitesi-uygulamali-veri-bilimi-bootcamp/tree/main/Uygulamalı_Veri_Bilimi_Bootcamp_2.Hafta)
+
 </details>
+
