@@ -14,6 +14,7 @@
 ## Gün 2 - Veri Biliminin Temelleri & [Selin Şentürk](https://www.linkedin.com/in/sselinsenturk/)
 <details>
 <summary>Kaynaklar</summary>
-* (https://github.com/Turkish-AI-Community/istanbul-universitesi-uygulamali-veri-bilimi-bootcamp/tree/main/Uygulamal%C4%B1_Veri_Bilimi_Bootcamp_2.Hafta)
+<img width="1301" height="758" alt="image" src="https://github.com/user-attachments/assets/92e5ed2f-7146-44ff-af56-75504bc48717" />
+
 
 </details>
