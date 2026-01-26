@@ -9,6 +9,8 @@
 <details>
 <summary>Kaynaklar</summary>
 
+- [Veri ile Tanışma Sunumu](https://drive.google.com/file/d/1F-ZU-Biq6OVVT5h-HzaDMbK5LRqDSCr5/view?usp=sharing)
+
 </details>
 
 <a name="2. Oturum"></a>
