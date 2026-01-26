@@ -9,6 +9,8 @@
 <details>
 <summary>Kaynaklar</summary>
 
+- 📁 [Uygulamalı Veri Bilimi Bootcamp – 1. Gün](https://drive.google.com/drive/folders/1WDjVfhCsQ4T2KwtMan11JxvvUedEdODN?usp=drive_link)
+
 </details>
 
 <a name="2. Oturum"></a>
