@@ -9,7 +9,7 @@
 <details>
 <summary>Kaynaklar</summary>
 
-- [Veri ile Tanışma Sunumu](https://drive.google.com/file/d/1F-ZU-Biq6OVVT5h-HzaDMbK5LRqDSCr5/view?usp=sharing)
+- 📁 [Uygulamalı Veri Bilimi Bootcamp – 1. Gün](./Gun_1/)
 
 </details>
 
@@ -20,6 +20,17 @@
 <details>
 <summary>Kaynaklar</summary>
 
-- 📁 [Uygulamalı Veri Bilimi Bootcamp – 2. Gün](./Gun_2/Veri_Biliminin_Temelleri/)
+- 📁 [Uygulamalı Veri Bilimi Bootcamp – 2. Gün](./Gun_2/)
+
+</details>
+
+<a name="3. Oturum"></a>
+
+## Gün 3 - Makine Öğrenmesi Modellerinin Matematik Temelleri & [Selin Çıldam](https://www.linkedin.com/in/selincildam/)
+
+<details>
+<summary>Kaynaklar</summary>
+
+- 📁 [Uygulamalı Veri Bilimi Bootcamp – 3. Gün](./Gun_3/)
 
 </details>
