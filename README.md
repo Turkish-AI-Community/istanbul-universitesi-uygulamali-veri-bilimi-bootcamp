@@ -34,3 +34,14 @@
 - 📁 [Uygulamalı Veri Bilimi Bootcamp – 3. Gün](./Gun_3/)
 
 </details>
+
+<a name="4. Oturum"></a>
+
+## Gün 4 - Regresyon Modelleri & [Günnur Şentürk](https://www.linkedin.com/in/gunnur-senturk/)
+
+<details>
+<summary>Kaynaklar</summary>
+
+- 📁 [Uygulamalı Veri Bilimi Bootcamp – 4. Gün](./Gun_4/)
+
+</details>
