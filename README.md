@@ -45,3 +45,14 @@
 - 📁 [Uygulamalı Veri Bilimi Bootcamp – 4. Gün](./Gun_4/)
 
 </details>
+
+<a name="5. Oturum"></a>
+
+## Gün 5 - Sınıflandırma Modellerine Giriş & [Enes Fehmi Manan](https://www.linkedin.com/in/enesfehmimanan/)
+
+<details>
+<summary>Kaynaklar</summary>
+
+- 📁 [Uygulamalı Veri Bilimi Bootcamp – 5. Gün](./Gun_5/)
+
+</details>
