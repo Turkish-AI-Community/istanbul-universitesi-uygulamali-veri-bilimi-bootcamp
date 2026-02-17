@@ -64,6 +64,6 @@
 <details>
 <summary>Kaynaklar</summary>
 
-- 📁 [Uygulamalı Veri Bilimi Bootcamp – 5. Gün](./Gun_8/)
+- 📁 [Uygulamalı Veri Bilimi Bootcamp – 8. Gün](./Gun_8/)
 
 </details>
