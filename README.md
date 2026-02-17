@@ -56,3 +56,14 @@
 - 📁 [Uygulamalı Veri Bilimi Bootcamp – 5. Gün](./Gun_5/)
 
 </details>
+
+<a name="8. Oturum"></a>
+
+## Gün 8 - Generative AI Temelleri & [Rumeysa Bakar](https://www.linkedin.com/in/rumeysa-bakar/)
+
+<details>
+<summary>Kaynaklar</summary>
+
+- 📁 [Uygulamalı Veri Bilimi Bootcamp – 5. Gün](./Gun_8/)
+
+</details>
