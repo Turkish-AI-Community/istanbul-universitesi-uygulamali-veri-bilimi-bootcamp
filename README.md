@@ -57,6 +57,17 @@
 
 </details>
 
+<a name="6. Oturum"></a>
+
+## Gün 6 - Sınıflandırma Modelleri Uygulama & [Özge Usta](https://www.linkedin.com/in/ozge-usta/)
+
+<details>
+<summary>Kaynaklar</summary>
+
+- 📁 [Uygulamalı Veri Bilimi Bootcamp – 6. Gün](./Gun_6/)
+
+</details>
+
 <a name="8. Oturum"></a>
 
 ## Gün 8 - Generative AI Temelleri & [Rumeysa Bakar](https://www.linkedin.com/in/rumeysa-bakar/)
