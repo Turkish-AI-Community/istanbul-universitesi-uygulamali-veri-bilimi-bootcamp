@@ -68,6 +68,17 @@
 
 </details>
 
+<a name="7. Oturum"></a>
+
+## Gün 7 - Derin Öğrenme Temelleri ve Konseptleri & [Göker Güner](https://www.linkedin.com/in/gokerguner/)
+
+<details>
+<summary>Kaynaklar</summary>
+
+- 📁 [Uygulamalı Veri Bilimi Bootcamp – 7. Gün](./Gun_7/)
+
+</details>
+
 <a name="8. Oturum"></a>
 
 ## Gün 8 - Generative AI Temelleri & [Rumeysa Bakar](https://www.linkedin.com/in/rumeysa-bakar/)
