@@ -1,91 +1,60 @@
-# Uygulamalı Veri Bilimi Bootcamp Kaynaklar
+<div align="center">
 
-İstanbul Üniversitesi Data Club ve Bilgisayar Bilimleri Kulüpleri ile düzenlediğimiz Uygulamalı Veri Bilimi Bootcamp'in kaynaklarını derlediğimiz repo
+# 🎓 Uygulamalı Veri Bilimi Bootcamp
 
-<a name="1. Oturum"></a>
+![1768467811122](https://github.com/user-attachments/assets/77c48315-1e81-445c-8960-02d0cdd6c1db)
 
-## Gün 1 - Veri Nedir? Veri Kavramına Genel Bakış & [Zeynep Karaca](https://www.linkedin.com/in/zeynepguney/)
+<br>
 
-<details>
-<summary>Kaynaklar</summary>
+İstanbul Üniversitesi Data Club ve Bilgisayar Bilimleri Kulüpleri ile birlikte düzenlediğimiz **Uygulamalı Veri Bilimi Bootcamp**'ine ait tüm ders materyalleri, notlar ve uygulamaların derlendiği kaynak deposudur.
 
-- 📁 [Uygulamalı Veri Bilimi Bootcamp – 1. Gün](./Gun_1/)
+<br>
 
-</details>
+</div>
 
-<a name="2. Oturum"></a>
+---
 
-## Gün 2 - Veri Biliminin Temelleri & [Selin Şentürk](https://www.linkedin.com/in/sselinsenturk/)
+### 🎯 Neler Öğreneceksiniz?
 
-<details>
-<summary>Kaynaklar</summary>
+- Veri kavramı, veri hazırlığı ve veri biliminin temelleri
+- Makine öğrenmesinin matematiksel altyapısı
+- Regresyon ve sınıflandırma modelleri (teori + uygulama)
+- Derin öğrenme temelleri
+- Generative AI ve büyük dil modelleri (LLM)
 
-- 📁 [Uygulamalı Veri Bilimi Bootcamp – 2. Gün](./Gun_2/)
+---
 
-</details>
+## 📚 Ders İçerikleri
 
-<a name="3. Oturum"></a>
+| Gün | Konu | Eğitmen |
+|:---:|------|---------|
+| 1 | 📊 [Veri Nedir? Veri Kavramına Genel Bakış](./Gun_1/) | [Zeynep Karaca](https://www.linkedin.com/in/zeynepguney/) |
+| 2 | 🔬 [Veri Biliminin Temelleri](./Gun_2/) | [Selin Şentürk](https://www.linkedin.com/in/sselinsenturk/) |
+| 3 | 🧮 [Makine Öğrenmesi Modellerinin Matematik Temelleri](./Gun_3/) | [Selin Çıldam](https://www.linkedin.com/in/selincildam/) |
+| 4 | 📈 [Regresyon Modelleri](./Gun_4/) | [Günnur Şentürk](https://www.linkedin.com/in/gunnur-senturk/) |
+| 5 | ⚡ [Sınıflandırma Modellerine Giriş](./Gun_5/) | [Enes Fehmi Manan](https://www.linkedin.com/in/enesfehmimanan/) |
+| 6 | ⚙️ [Sınıflandırma Modelleri Uygulama](./Gun_6/) | [Özge Usta](https://www.linkedin.com/in/ozge-usta/) |
+| 7 | 🧠 [Derin Öğrenme Temelleri ve Konseptleri](./Gun_7/) | [Göker Güner](https://www.linkedin.com/in/gokerguner/) |
+| 8 | 🤖 [Generative AI Temelleri](./Gun_8/) | [Rumeysa Bakar](https://www.linkedin.com/in/rumeysa-bakar/) |
 
-## Gün 3 - Makine Öğrenmesi Modellerinin Matematik Temelleri & [Selin Çıldam](https://www.linkedin.com/in/selincildam/)
+---
 
-<details>
-<summary>Kaynaklar</summary>
+<div align="center">
 
-- 📁 [Uygulamalı Veri Bilimi Bootcamp – 3. Gün](./Gun_3/)
+### 🌐 Türkiye Yapay Zeka Topluluğu
 
-</details>
+Bizi sosyal medyada takip edin!
 
-<a name="4. Oturum"></a>
+<br>
 
-## Gün 4 - Regresyon Modelleri & [Günnur Şentürk](https://www.linkedin.com/in/gunnur-senturk/)
+[![LinkedIn](https://img.shields.io/badge/Türkiye_Yapay_Zeka_Topluluğu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/turkish-ai-community/)
+[![GitHub](https://img.shields.io/badge/Turkish--AI--Community-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Turkish-AI-Community)
+[![X](https://img.shields.io/badge/turkiyeyz-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/turkiyeyz)
 
-<details>
-<summary>Kaynaklar</summary>
+<br>
 
-- 📁 [Uygulamalı Veri Bilimi Bootcamp – 4. Gün](./Gun_4/)
+---
 
-</details>
+<sub>⭐ Bu repo işinize yaradıysa yıldız vermeyi unutmayın!</sub>
 
-<a name="5. Oturum"></a>
-
-## Gün 5 - Sınıflandırma Modellerine Giriş & [Enes Fehmi Manan](https://www.linkedin.com/in/enesfehmimanan/)
-
-<details>
-<summary>Kaynaklar</summary>
-
-- 📁 [Uygulamalı Veri Bilimi Bootcamp – 5. Gün](./Gun_5/)
-
-</details>
-
-<a name="6. Oturum"></a>
-
-## Gün 6 - Sınıflandırma Modelleri Uygulama & [Özge Usta](https://www.linkedin.com/in/ozge-usta/)
-
-<details>
-<summary>Kaynaklar</summary>
-
-- 📁 [Uygulamalı Veri Bilimi Bootcamp – 6. Gün](./Gun_6/)
-
-</details>
-
-<a name="7. Oturum"></a>
-
-## Gün 7 - Derin Öğrenme Temelleri ve Konseptleri & [Göker Güner](https://www.linkedin.com/in/gokerguner/)
-
-<details>
-<summary>Kaynaklar</summary>
-
-- 📁 [Uygulamalı Veri Bilimi Bootcamp – 7. Gün](./Gun_7/)
-
-</details>
-
-<a name="8. Oturum"></a>
-
-## Gün 8 - Generative AI Temelleri & [Rumeysa Bakar](https://www.linkedin.com/in/rumeysa-bakar/)
-
-<details>
-<summary>Kaynaklar</summary>
-
-- 📁 [Uygulamalı Veri Bilimi Bootcamp – 8. Gün](./Gun_8/)
-
-</details>
+</div>
